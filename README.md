@@ -1,4 +1,4 @@
-- Abstract (2-3 lines)
+- Abstract
   - An introduction to Brain-Computer Interface with the basics of the biological aspects concerned with the BCI, and how to leverage python-MNE for processing and analysis brain waves.
 
 
@@ -19,33 +19,18 @@
     - Simple Demo of using Python-MNE for frequency and power analysis and using simple classification of brain waves.
 
 
-- Pre-requisites for the talk
-  - Basic Python
-  - Simlpe Time Series
-
-
-- Time required for the talk
-  - 25-30 mins
-
-
 - Link to slides
-  - Inprocess - will update by 6th evening
+  - https://docs.google.com/presentation/d/1cUnD5bkZj9Lzsnmvu3GNACS52MIWhXRkoBmtXsdjH2M/edit?usp=sharing
 
 
-- Will you be doing hands-on demo as well?
-- No
+- Link to notebook
+  - https://colab.research.google.com/drive/1qGbiA_zD_QpBhgOtTJap8YxHu74V0ySH
 
 
-- Link to ipython notebook (if any)
-  - Inprocess - will update by 6th evening
-
-
-- About yourself
-
-
-- Are you comfortable if the talk is recorded and uploaded to PyData Delhi's YouTube channel ?
-  - Yes
-
-
-- Any query ?
-  - No
+* Other Helpful Links
+  - [Open Data](https://www.kaggle.com/c/seizure-prediction/discussion/10989#58531)
+  - [Intro to BCI](https://towardsdatascience.com/a-beginners-guide-to-brain-computer-interface-and-convolutional-neural-networks-9f35bd4af948)
+  - [Epilepsy Data](https://www.kaggle.com/c/seizure-prediction/data)
+  - [Computational Neuroscience](https://towardsdatascience.com/a-brief-introduction-to-computational-neuroscience-part-1-42171791f613)
+  - [NeuraLink](https://www.neuralink.com)
+  - [MIT BCS LAB](https://bcs.mit.edu)
